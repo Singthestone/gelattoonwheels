@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    background: #8EB8E5;
+    align-items: center;
+}
+
+h1 {
+    font-family: "futura-pt-bold", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    font-size: 28px;
+    color: #FFFDCE;
+    margin-right: 20px;
+}
+
+.menu {
+    padding: 20px;
+    align-content: center;
+    color: #D36582;
+}
+
+.bloque1 {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    height: 80vh;
+    margin-top: 44px;
+}
+
+footer {
+    background: #8EB8E5;
+    position: relative;
+    bottom: 0px;
+    align-content: bottom;
+    text-align: left;
+}
+
+.copy {
+    font-size: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    color: white;
+}

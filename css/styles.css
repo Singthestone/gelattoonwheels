@@ -1,0 +1,20 @@
+/* Cargar Fuentes para la web */
+
+
+/* @font-face {
+    font-family: "futura-pt-medium";
+    src: local("futura-pt-medium"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTMedium.woff") format("woff"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTMedium.otf") format("opentype"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTMedium.ttf") format("truetype"), url("../fonts/futurapt/FuturaPTMedium.otf") format("otf");
+}
+
+@font-face {
+    font-family: "futura-pt-bold";
+    src: local("Futura PT Bold"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTBold.woff") format("woff"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTBold.otf") format("opentype"), url("https://fontsme.com/wp-data/f/745/14745/file/FuturaPTBold.ttf") format("truetype"), url("../fonts/futurapt/FuturaPTBold.otf") format("otf");
+} */
+
+html {
+    font-family: "futura-pt", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #D36582;
+    background: #FFFDCE;
+}
